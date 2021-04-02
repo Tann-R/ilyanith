@@ -142,6 +142,8 @@
     display: inline-block;
     max-width: 60%;
     margin-left:25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
     background: var(--dkgry);
     border-radius: 25px;
     border: solid 1px var(--acc1);
@@ -168,6 +170,7 @@
     border-radius: 25px;
     border: solid 1px var(--acc1);
     padding: 25px;
+    margin-bottom: 25px;
   }
   .journalbox p {
     font-family: 'Mr De Haviland', cursive;

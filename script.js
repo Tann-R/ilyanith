@@ -70,12 +70,12 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     ' of Ilya\'s mother\'s particular talents, but Ul\'dah, the jewel of the sands, was a beast of a very different colour, and here, she flourished.' +
     '  Indeed, it was only her own inconstancy and the speed with which she grew bored of her daliances, coupled with the copious wealth within the sands,' +
     ' that ever served to hinder the woman in her pursuit of a life of comfort and ease.</p>' +
-    '</div>' +
-    '<div class="textbox">' +
     '<p>From an early age, there was no question what path had been laid before Ilya\'s feet, but it never sat well with the child, and her perpetual ' +
     'inability to be properly cognizant fo social cues did little to aid the matter.  Her mother never gave up, only too eager to transform her clever, precocious' +
     ' offspring into the perfect little prop, but as time went on, it became more and more clear that, while she might be able to adopt the appearance ' +
     'and wit her mother so desired of her, the charm, social grace, and ambition were all quite entirely beyond her.</p>' +
+    '</div>' +
+    '<div class="textbox">' +
     '<p>It was among the Thaumaturges that Ilyanith first found a place that felt, if not right, at least infinitely more familiar and comfortable than the ' +
     'vaunted halls and draping elegance that her mother so aggressively pursued.  Eventually, though her mother never gave up on holding her up as a prop, ' +
     'she did resign herself to the fact that it was unlikely she would ever make of her daughter what she had made of herself.  It was far from ideal, but at ' +
