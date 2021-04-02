@@ -147,11 +147,11 @@
     border: solid 1px var(--acc1);
     padding: 25px;
     vertical-align: top;
+    color: var(--acc2);
   }
   .textbox p {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
-    color: var(--acc2);
   }
   .textbox b {
       color: var(--acc3);

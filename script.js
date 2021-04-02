@@ -39,7 +39,7 @@ let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
     '<img src="./resources/ilya-in-fc-house-1.jpg" alt="A closeup of a miqo\'te woman sitting in an industrial structure" title="Ilyanith Vhas" />' +
     '<div class="textbox">' +
     '<table>' +
-    '<tr><td><b>Nickname(s) / AKA</b></td><td><b>: </b>Ilya, Yani</td></tr>'
+    '<tr><td><b>Nickname(s) / AKA</b></td><td><b>: </b>Ilya, Yani</td></tr>' +
     '<tr><td><b>Age</b></td><td><b>: </b>30</td></tr>' +
     '<tr><td><b>Birthplace</b></td><td><b>: </b>Ishgard</td></tr>' +
     '<tr><td><b>Job</b></td><td><b>: </b> machinist, astrologian</td></tr>' +
