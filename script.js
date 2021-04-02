@@ -56,9 +56,6 @@ let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
 
 let history = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
-    '<div class="journalbox">' +
-    '<p>I was too young to remember the place.  Why, then, did it feel so familiar to return?</p>' +
-    '</div>' +
     '<img src="./resources/ishgard.jpg" alt="An artistic rendition of the Holy See of Ishgard" title="The Holy See of Ishgard"/>' +
     '<div class="textbox">' +
     '<p>Born in the Holy See, the daughter of a nobleman\'s mistress, Ilya was ill poised for prosperity from the start, but that she bore ' +
@@ -78,6 +75,9 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     'vaunted halls and draping elegance that her mother so aggressively pursued.  Eventually, though her mother never gave up on holding her up as a prop, ' +
     'she did resign herself to the fact that it was unlikely she would ever make of her daughter what she had made of herself.  It was far from ideal, but at ' +
     'least the child still served to demonstrate her own beauty and intellect.  It would do.</p>' +
+    '</div>' +
+    '<div class="journalbox">' +
+    '<p>I was too young to remember the place.  Why, then, did it feel so familiar to return?</p>' +
     '</div>' +
     '<div class="textbox">' +
     '<p>Life continued like that for Ilya for some time, with her free time spent almost invariably buried in a tome in a quiet corner somewhere and "home" ' +
