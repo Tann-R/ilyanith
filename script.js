@@ -41,7 +41,14 @@ let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
     '<table>' +
     '<tr><td><b>Nickname(s) / AKA</b></td><td><b>: </b>Ilya, Yani</td></tr>' +
     '<tr><td><b>Age</b></td><td><b>: </b>30</td></tr>' +
+    '<tr><td><b>Sex / Gender</b></td><td><b>: </b>female / nonbinary (pronouns: any)</td></tr>' +
+    '<tr><td><b>Orientation</b></td><td><b>: </b>demisexual panromantic' +
+    '<tr><td><b>Relationship Status</b></td><td><b>: </b>single' +
+    '<tr><td></td><td></td></tr>' +
     '<tr><td><b>Birthplace</b></td><td><b>: </b>Ishgard</td></tr>' +
+    '<tr><td><b>Homeland</b></td><td><b>: </b>Ul\'dah</td></tr>' +
+    '<tr><td><b>Residence</b></td><td><b>: </b>various innrooms' +
+    '<tr><td></td><td></td></tr>' +
     '<tr><td><b>Job</b></td><td><b>: </b> machinist, astrologian</td></tr>' +
     '<tr><td><b>Role</b></td><td><b>: </b>damage, healer</td></tr>' +
     '</table>' +
