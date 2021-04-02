@@ -1,0 +1,168 @@
+:root {
+    --acc1: #ffa500;
+    --acc2: #e80;
+    --acc3: #fc5;
+    --acc4: #c30;
+    --wht: #fff;
+    --medgry: #404040;
+    --dkgry: #222;
+    --blk: #000;
+  }
+  body {
+    background:var(--dkgry);
+  }
+  .navbar {
+    padding-right:20px;
+  }
+  .nav-active {
+    float: right;
+    height: 55px;
+    margin-top: 43px;
+    border-radius: 75px 10px 0px 0px;
+    padding:20px 10px 20px 40px;
+    color: var(--wht);
+    text-decoration: none;
+    font-weight:bold;
+    letter-spacing: 2px;
+    text-shadow:var(--dkgry) 1px 1px 1px,
+      var(--dkgry) 1px 0px 1px,
+      var(--dkgry) 1px -1px 1px,
+      var(--dkgry) 0px 1px 1px,
+      var(--dkgry) 0px -1px 1px,
+      var(--dkgry) -1px 1px 1px,
+      var(--dkgry) -1px 0px 1px,
+      var(--dkgry) -1px -1px 1px;
+    font-size: 1.5em;
+    font-family: 'Nova Cut', cursive;
+    border-top: solid 2px var(--acc3);
+    border-left: solid 2px var(--acc3);
+    border-right: solid 2px var(--acc4);
+    margin-left: 2px;
+    background: var(--acc1);
+    margin-bottom:0px;
+  }
+  .nav-inactive {
+    float: right;
+    height: 55px;
+    margin-top: 43px;
+    border-radius: 75px 10px 0px 0px;
+    padding:20px 10px 20px 40px;
+    color: var(--wht);
+    text-decoration: none;
+    font-weight:bold;
+    letter-spacing: 2px;
+    text-shadow:var(--dkgry) 1px 1px 1px,
+      var(--dkgry) 1px 0px 1px,
+      var(--dkgry) 1px -1px 1px,
+      var(--dkgry) 0px 1px 1px,
+      var(--dkgry) 0px -1px 1px,
+      var(--dkgry) -1px 1px 1px,
+      var(--dkgry) -1px 0px 1px,
+      var(--dkgry) -1px -1px 1px;
+    font-size: 1.5em;
+    font-family: 'Nova Cut', cursive;
+    border-top: solid 2px var(--acc3);
+    border-left: solid 2px var(--acc3);
+    border-right: solid 2px var(--acc4);
+    border-bottom: solid 2px var(--acc2);
+    margin-left: 2px;
+    background: var(--acc2);
+    margin-bottom:0px;
+  }
+  .nav-inactive:hover {
+    background: var(--acc3);
+    border-top: solid 2px var(--wht);
+    border-left: solid 2px var(--wht);
+  }
+  .header {
+    width:100%;
+    height:100px;
+    background:var(--medgry);
+    position:fixed;top:0px;left:0px;
+    border-bottom:10px solid;
+    border-color:var(--acc1);
+    box-shadow:2px 2px 5px var(--blk);
+    z-index: 1;
+  }
+  .header-name {
+    float: left;
+    padding-top: 25px;
+    padding-left: 50px;
+    font-size: 75px;
+    color: var(--acc3);
+    text-shadow: 3px 3px 0px var(--blk);
+    font-family: 'Mr De Haviland', cursive;
+  }
+  .info-box {
+    width:70%;
+    background: var(--medgry);
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:25px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px var(--blk);
+    border: solid 1px var(--acc1);
+    position:relative;
+  }
+  img {
+    border-radius: 25px;
+    border: solid 1px var(--acc1);
+    box-shadow: 3px 3px 3px var(--blk);
+    display: inline;
+    max-width: 30%;
+    vertical-align: top;
+  }
+  .info-box h1 {
+    color: var(--acc3);
+    font-family: 'Nova Cut', cursive;
+    text-shadow:var(--acc4) 1px 1px 1px,
+      var(--acc4) 1px 0px 1px,
+      var(--acc4) 1px -1px 1px,
+      var(--acc4) 0px 1px 1px,
+      var(--acc4) 0px -1px 1px,
+      var(--acc4) -1px 1px 1px,
+      var(--acc4) -1px 0px 1px,
+      var(--acc4) -1px -1px 1px,
+      var(--blk) 3px 3px 3px;
+    text-align: right;
+    padding-right: 25px;
+  }
+  .info-box h2 {
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: var(--acc1);
+    text-shadow: 1px 1px 1px var(--blk);
+    padding-right: 25px;
+  }
+  .textbox {
+    display: inline-block;
+    max-width: 60%;
+    margin-left:25px;
+    background: var(--dkgry);
+    border-radius: 25px;
+    border: solid 1px var(--acc1);
+    padding: 25px;
+    vertical-align: top;
+  }
+  .textbox p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    color: var(--acc2);
+  }
+  .journalbox {
+    max-width: 80%;
+    margin: auto;
+    background: var(--dkgry);
+    border-radius: 25px;
+    border: solid 1px var(--acc1);
+    padding: 25px;
+  }
+  .journalbox p {
+    font-family: 'Mr De Haviland', cursive;
+    color: var(--acc3);
+    font-size: 2.5em;
+  }
