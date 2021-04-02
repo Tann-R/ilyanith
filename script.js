@@ -28,7 +28,7 @@ let home = '<h1>Exploration - Discovery - Learning</h1>' +
 
 let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
-    '<img src="https://img.nickpic.host/ajJyp1.png" alt="A portrait of a bespectacled miqo\'te with white hair and blue eyes" title="Ilyanith Vhas, created with picrew.me" />' +
+    '<img src="./resources/ilya-in-fc-house-1.jpg" alt="A portrait of a bespectacled miqo\'te with white hair and blue eyes" title="Ilyanith Vhas, created with picrew.me" />' +
     '<div class="textbox">' +
     '<p><b>Nickname(s)/AKA:</b> Ilya, Yani</p>' +
     '<p><b>Age:</b> tbd</p>' +
