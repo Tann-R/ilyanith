@@ -153,6 +153,9 @@
     text-align: justify;
     color: var(--acc2);
   }
+  .textbox b {
+      color: var(--acc3);
+  }
   .journalbox {
     max-width: 80%;
     margin: auto;
