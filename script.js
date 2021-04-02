@@ -13,8 +13,8 @@ function active(nav) {
     if (nav=="history") {
       document.getElementById("main").innerHTML=history;
     }
-    if (nav=="gallery") {
-      document.getElementById("main").innerHTML=gallery;
+    if (nav=="hooks") {
+      document.getElementById("main").innerHTML=hooks;
     }
   }
 }
@@ -28,7 +28,7 @@ let home = '<h1>Exploration - Discovery - Learning</h1>' +
 
 let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
-    '<img src="./resources/ilya-in-fc-house-1.jpg" alt="A portrait of a bespectacled miqo\'te with white hair and blue eyes" title="Ilyanith Vhas, created with picrew.me" />' +
+    '<img src="./resources/ilya-in-fc-house-1.jpg" alt="A closeup of a miqo\'te woman sitting in an industrial structure" title="Ilyanith Vhas" />' +
     '<div class="textbox">' +
     '<p><b>Nickname(s)/AKA:</b> Ilya, Yani</p>' +
     '<p><b>Age:</b> tbd</p>' +
@@ -43,9 +43,9 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     '<p>Forthcoming.</p>' +
     '</div>'
 
-let gallery = '<h1>Exploration - Discovery - Learning</h1>' +
+let hooks = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
-    '<img src="https://img.nickpic.host/ajJyp1.png" alt="A portrait of a bespectacled miqo\'te with white hair and blue eyes" title="Ilyanith Vhas, created with picrew.me" />' +
+    '<img src="./resources/ilya-near-crystal-tower-1.jpg" alt="A closeup of a miqo\'te woman examining a crystaline structure" title="Ilyanith Vhas" />' +
     '<div class="textbox">' +
     '<p>Forthcoming.</p>' +
     '</div>'
