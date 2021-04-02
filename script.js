@@ -57,8 +57,38 @@ let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
 let history = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
     '<div class="journalbox">' +
-    '<p>Forthcoming.</p>' +
-    '</div>'
+    '<p>I was too young to remember the place.  Why, then, did it feel so familiar to return?</p>' +
+    '</div>' +
+    '<img src="./resources/ishgard.jpg" alt="An artistic rendition of the Holy See of Ishgard" title="The Holy See of Ishgard"/>' +
+    '<div class="textbox">' +
+    '<p>Born in the Holy See, the daughter of a nobleman\'s mistress, Ilya was ill poised for prosperity from the start, but that she bore ' +
+    'no traces of an Elezen sire, betraying her mother\'s "infidelity" to the lord whose house provided her comforts did little to help the matter.' +
+    '  Having offended the lord not only with her pregnancy, but with the birth of a child that was most certainly not his, Ilya\'s mother found ' +
+    'herself turned out of her position, her infant child in tow.  For a time, the woman held out hope of finding a new patron within Ishgard, but ' +
+    'after a few failed years of searching, she gave up, bartering for passage with a merchant bearing Ishgardian geldings to sell to the Grand Companies.</p>' +
+    '<p>The merchant\'s caravan eventually reached Ul\'dah, and it was here that mother and child departed.  The See had been ill suited to a woman' +
+    ' of Ilya\'s mother\'s particular talents, but Ul\'dah, the jewel of the sands, was a beast of a very different colour, and here, she flourished.' +
+    '  Indeed, it was only her own inconstancy and the speed with which she grew bored of her daliances, coupled with the copious wealth within the sands,' +
+    ' that ever served to hinder the woman in her pursuit of a life of comfort and ease.</p>' +
+    '</div>' +
+    '<div class="textbox">' +
+    '<p>From an early age, there was no question what path had been laid before Ilya\'s feet, but it never sat well with the child, and her perpetual ' +
+    'inability to be properly cognizant fo social cues did little to aid the matter.  Her mother never gave up, only too eager to transform her clever, precocious' +
+    ' offspring into the perfect little prop, but as time went on, it became more and more clear that, while she might be able to adopt the appearance ' +
+    'and wit her mother so desired of her, the charm, social grace, and ambition were all quite entirely beyond her.</p>' +
+    '<p>It was among the Thaumaturges that Ilyanith first found a place that felt, if not right, at least infinitely more familiar and comfortable than the ' +
+    'vaunted halls and draping elegance that her mother so aggressively pursued.  Eventually, though her mother never gave up on holding her up as a prop, ' +
+    'she did resign herself to the fact that it was unlikely she would ever make of her daughter what she had made of herself.  It was far from ideal, but at ' +
+    'least the child still served to demonstrate her own beauty and intellect.  It would do.</p>' +
+    '<p>Life continued like that for Ilya for some time, with her free time spent almost invariably buried in a tome in a quiet corner somewhere and "home" ' +
+    'becoming ever less a one.  As Ilya began to question the ethics of her mother\'s arrangements and grew more resistant to indulging the fashions her ' +
+    'mother favoured, a rift grew between the two that continued to widen until, eventually, matters came to a head.</p>' +
+    '<p>It was, ironically, no act of her mother\'s that set matters in motion, nor even of one of her patrons, but rather, of her favourite patron\'s son, ' +
+    'who returned home from a night of enthusiastic revelry reeking of liquor and clearly not entirely lucid.  When he came upon Ilya, a few stray comments ' +
+    'and her usual lack of social grace quickly ignited the tempestuous situation, and before long, the flash of a blade crossed her face, the wild swing too ' +
+    'shallow to do any real or lasting harm, but still more than sufficient to send the girl fleeing to the only place that felt secure: the Thaumaturges.</p>' +
+    '</div>' +
+    '<img src="./resources/painted-uldah.jpg" alt="A watercolour painting of Ul\'dah, as viewed from high in the air" title="Ul\'dah"/>'
 
 let hooks = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
