@@ -87,6 +87,12 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     'who returned home from a night of enthusiastic revelry reeking of liquor and clearly not entirely lucid.  When he came upon Ilya, a few stray comments ' +
     'and her usual lack of social grace quickly ignited the tempestuous situation, and before long, the flash of a blade crossed her face, the wild swing too ' +
     'shallow to do any real or lasting harm, but still more than sufficient to send the girl fleeing to the only place that felt secure: the Thaumaturges.</p>' +
+    '<p>Ilya\'s mother attempted to bring her home, but when the issue that had driven her out in the first place came up, it was not Ilya\'s side that she took, ' +
+    'and for Ilya, that was the final, irreparable straw.  The tattered remains of their relationship deteriorated entirely, and Ilya threw herself headlong into ' +
+    'academia, studying first with the Thaumaturges, and then with any library that would have her, until at last, she gathered the resources to venture beyond ' +
+    'Ul\'dah\'s walls and into the world beyond.  There, she began to pursue the art of the astrologian and took up the strangely comforting weight of the ' +
+    'machinist\'s arm.  It isn\'t the future anyone else wanted for her, but for the first time in her life, Ilya is pursuing the future she wants for herself.  ' +
+    'It is terrifying, exhilarating, and often dangerous - and she would not trade it for anything in the world.</p>' +
     '</div>' +
     '<img src="./resources/painted-uldah.jpg" alt="A watercolour painting of Ul\'dah, as viewed from high in the air" title="Ul\'dah"/>'
 
