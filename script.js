@@ -56,6 +56,7 @@ let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
 
 let history = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
+    '<div class="box">' +
     '<img src="./resources/ishgard.jpg" alt="An artistic rendition of the Holy See of Ishgard" title="The Holy See of Ishgard"/>' +
     '<div class="textbox">' +
     '<p>Born in the Holy See, the daughter of a nobleman\'s mistress, Ilya was ill poised for prosperity from the start, but that she bore ' +
@@ -76,9 +77,11 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     'she did resign herself to the fact that it was unlikely she would ever make of her daughter what she had made of herself.  It was far from ideal, but at ' +
     'least the child still served to demonstrate her own beauty and intellect.  It would do.</p>' +
     '</div>' +
+    '</div>' +
     '<div class="journalbox">' +
     '<p>I was too young to remember the place.  Why, then, did it feel so familiar to return?</p>' +
     '</div>' +
+    'div class="box">' +
     '<div class="textbox">' +
     '<p>Life continued like that for Ilya for some time, with her free time spent almost invariably buried in a tome in a quiet corner somewhere and "home" ' +
     'becoming ever less a one.  As Ilya began to question the ethics of her mother\'s arrangements and grew more resistant to indulging the fashions her ' +
@@ -94,7 +97,8 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     'machinist\'s arm.  It isn\'t the future anyone else wanted for her, but for the first time in her life, Ilya is pursuing the future she wants for herself.  ' +
     'It is terrifying, exhilarating, and often dangerous - and she would not trade it for anything in the world.</p>' +
     '</div>' +
-    '<img src="./resources/painted-uldah.jpg" alt="A watercolour painting of Ul\'dah, as viewed from high in the air" title="Ul\'dah"/>'
+    '<img src="./resources/painted-uldah.jpg" alt="A watercolour painting of Ul\'dah, as viewed from high in the air" title="Ul\'dah"/>' +
+    '</div>'
 
 let hooks = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +

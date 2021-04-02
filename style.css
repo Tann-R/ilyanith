@@ -176,4 +176,9 @@
     font-family: 'Mr De Haviland', cursive;
     color: var(--acc3);
     font-size: 2.5em;
+    text-align: center;
+  }
+  .box {
+      width: 90%;
+      margin: auto;
   }
