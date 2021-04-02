@@ -74,12 +74,12 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     'inability to be properly cognizant fo social cues did little to aid the matter.  Her mother never gave up, only too eager to transform her clever, precocious' +
     ' offspring into the perfect little prop, but as time went on, it became more and more clear that, while she might be able to adopt the appearance ' +
     'and wit her mother so desired of her, the charm, social grace, and ambition were all quite entirely beyond her.</p>' +
-    '</div>' +
-    '<div class="textbox">' +
     '<p>It was among the Thaumaturges that Ilyanith first found a place that felt, if not right, at least infinitely more familiar and comfortable than the ' +
     'vaunted halls and draping elegance that her mother so aggressively pursued.  Eventually, though her mother never gave up on holding her up as a prop, ' +
     'she did resign herself to the fact that it was unlikely she would ever make of her daughter what she had made of herself.  It was far from ideal, but at ' +
     'least the child still served to demonstrate her own beauty and intellect.  It would do.</p>' +
+    '</div>' +
+    '<div class="textbox">' +
     '<p>Life continued like that for Ilya for some time, with her free time spent almost invariably buried in a tome in a quiet corner somewhere and "home" ' +
     'becoming ever less a one.  As Ilya began to question the ethics of her mother\'s arrangements and grew more resistant to indulging the fashions her ' +
     'mother favoured, a rift grew between the two that continued to widen until, eventually, matters came to a head.</p>' +
