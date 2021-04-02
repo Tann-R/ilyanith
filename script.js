@@ -81,7 +81,7 @@ let history = '<h1>Exploration - Discovery - Learning</h1>' +
     '<div class="journalbox">' +
     '<p>I was too young to remember the place.  Why, then, did it feel so familiar to return?</p>' +
     '</div>' +
-    'div class="box">' +
+    '<div class="box">' +
     '<div class="textbox">' +
     '<p>Life continued like that for Ilya for some time, with her free time spent almost invariably buried in a tome in a quiet corner somewhere and "home" ' +
     'becoming ever less a one.  As Ilya began to question the ethics of her mother\'s arrangements and grew more resistant to indulging the fashions her ' +
