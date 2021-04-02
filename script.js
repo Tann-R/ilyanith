@@ -64,5 +64,20 @@ let hooks = '<h1>Exploration - Discovery - Learning</h1>' +
     '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
     '<img src="./resources/ilya-near-crystal-tower-1.jpg" alt="A closeup of a miqo\'te woman examining a crystaline structure" title="Ilyanith Vhas" />' +
     '<div class="textbox">' +
-    '<p>Forthcoming.</p>' +
+    '<p><b>The Curiosity</b><br/>' +
+    'Is there something atypical about your character?  Some notable characteristic, uncommon mannerism, unique area of expertise, or just interesting ' +
+    'history or experience?  Ilya is interested.  She wants to know.</p>' +
+    '<p>&nbsp;</p>' +
+    '<p><b>The Advisor</b><br/>' +
+    'Is there some matter on which your character needs some advice, or is there some lofty goal your character is pursuing that would benefit from having ' +
+    'someone around to bounce ideas off of or to offer insights and unusual perspectives on?  Ilya may be your person.</p>' +
+    '<p>&nbsp;</p>' +
+    '<p><b>The Interloper</b><br/>' +
+    'Look, it\'s not that Ilya is <i>trying</i> to get herself into trouble or go places she doesn\'t belong.  It just sort of comes naturally to her, whether ' +
+    'she means it to or not.  Is there something your character is up to that is best kept quiet?  A secret, perhaps, that could be discovered that would be...' +
+    'less than pleasing to have revealed?  A place where others do not belong?  If you\'re interested in exploring what might happen were that to occur, Ilya ' +
+    'can probably help with that.</p>' +
+    '<p>&nbsp;</p>' +
+    '<p><b>Have another idea?</b><br/>' +
+    'Talk to me!  I\'m very open to discussing other options.  These are just a few suggestions off the top of my head.  It is by no means an inclusive list!</p>' +
     '</div>'
