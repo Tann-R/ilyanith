@@ -153,6 +153,11 @@
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
   }
+  .textbox table {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    color: var(--acc2);
+  }
   .textbox b {
       color: var(--acc3);
   }
