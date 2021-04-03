@@ -49,7 +49,7 @@ let demographics = '<h1>Exploration - Discovery - Learning</h1>' +
     '<tr><td><b>Homeland</b></td><td><b>: </b>Ul\'dah</td></tr>' +
     '<tr><td><b>Residence</b></td><td><b>: </b>various innrooms' +
     '<tr><td>&nbsp;</td><td>&nbsp;</td></tr>' +
-    '<tr><td><b>Job</b></td><td><b>: </b> machinist, astrologian</td></tr>' +
+    '<tr><td><b>Job</b></td><td><b>: </b> red mage, black mage, astrologian</td></tr>' +
     '<tr><td><b>Role</b></td><td><b>: </b>damage, healer</td></tr>' +
     '</table>' +
     '</div>'
