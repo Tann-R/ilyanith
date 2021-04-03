@@ -24,7 +24,7 @@ let home = '<h1>Exploration - Discovery - Learning</h1>' +
     '<img src="./resources/ilya-at-limsa-1.jpg" alt="A closeup of a miqo\'te woman outside of Limsa Lominsa" title="Ilyanith Vhas" />' +
     '<div class="textbox">' +
     '<p>With an insatiable curiosity and an agile mind, Ilya is a clever and resourceful woman, perpetually eager to explore and discover ever more about the world around her.' +
-    '  She is eternally questioning, both within and without, and more than one haples victim has been trapped beneath a flurry of questions.  Despite her willingness to pursue ' +
+    '  She is eternally questioning, both within and without, and more than one hapless victim has been trapped beneath a flurry of questions.  Despite her willingness to pursue ' +
     'information, however, she should not be mistaken for outgoing; indeed, unless her curiosity is well piqued, it is rare for her to approach a stranger.  Instead, in crowds, ' +
     'she can most often be found occupying her time with people-watching silently.</p>' +
     '<p>Though not shy, as such, Ilyanith is socially awkward and frequently socially inept (and oblivious).  As such, she is prone to missing sometimes seemingly obvious social' +
