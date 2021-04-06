@@ -146,6 +146,7 @@ let hooks = '<h1>Exploration - Discovery - Learning</h1>' +
     'have, and out of respect for others, I will not explore such themes over a public medium where someone might stumble into it unawares.  There are plenty of methods ' +
     'in-game of RPing without being in the public eye.  For darker/more mature themes, please communicate with me so that we can move the RP to one of those.</p>' +
     '</div>' +
+    '<br/><br/>'
     '<div class="journalbox">' +
-    'Thank you for visiting!' +
+    '<p>Thank you for visiting!</p>' +
     '</div>'
