@@ -145,7 +145,7 @@ let hooks = '<h1>Exploration - Discovery - Learning</h1>' +
     'perfectly willing to RP mature themes and explore darker or potentially triggering content.  However, I will also do my utmost to respect any triggers that you may ' +
     'have, and out of respect for others, I will not explore such themes over a public medium where someone might stumble into it unawares.  There are plenty of methods ' +
     'in-game of RPing without being in the public eye.  For darker/more mature themes, please communicate with me so that we can move the RP to one of those.</p>' +
-    '/div>' +
+    '</div>' +
     '<div class="journalbox">' +
     'Thank you for visiting!' +
     '</div>'
