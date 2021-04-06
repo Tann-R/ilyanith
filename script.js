@@ -16,6 +16,9 @@ function active(nav) {
     if (nav=="hooks") {
       document.getElementById("main").innerHTML=hooks;
     }
+    if (nav=="ooc") {
+      document.getElementById("main").innerHTML=ooc;
+    }
   }
 }
 
@@ -120,4 +123,29 @@ let hooks = '<h1>Exploration - Discovery - Learning</h1>' +
     '<p>&nbsp;</p>' +
     '<p><b>Have another idea?</b><br/>' +
     'Talk to me!  I\'m very open to discussing other options.  These are just a few suggestions off the top of my head.  It is by no means an inclusive list!</p>' +
+    '</div>'
+
+    let ooc = '<h1>Exploration - Discovery - Learning</h1>' +
+    '<h2>"I don\'t want to believe.  I want to know." -Carl Sagan</h2>' +
+    '<img src="./resources/ilya-reading.jpg" alt="A miqo\'te woman viewed from behind peruses a book" title="Ilyanith Vhas" />' +
+    '<div class="textbox">' +
+    '<p><b>Communication</b><br/>' +
+    'If you want to contact me outside of the game, send me a message in-game.  I have discord available, but am not comfortable publicly posting it.</p>' +
+    '<p><b>Regarding Long Term Plots</b><br/>' +
+    'Yes, please.</p>' +
+    '<p><b>Regarding Romantic or Sexual Plots</b><br/>' +
+    'If you are just looking for a character to have sex with, you may wish to look elsewhere.  I am not intrinsically opposed to ERP, so long as it is appropriate ' +
+    'to the events in the narrative, but it isn\'t why I\'m here, either.  If you are interested in any kind of romantic or sexual plot, please discuss it with me ' +
+    'as a player, so that we can ensure that we are on the same page, especially in regards to lines of IC vs. OOC - that is to say, that we are both fully aware that ' +
+    'they are not the same thing and that they do, critically, exist.  I am in no way opposed to OOC communication, making friends OOC, or having regular OOC conversations' +
+    ' with you, but I have also far too often run into "RP as a means of forming a real life relationship", and the establishment of clear boundaries between IC and OOC is ' +
+    'very important to me.</p>' +
+    '<p><b>Triggering Content/Mature Themes</b><br/>' +
+    'If there is a mature theme you wish to explore, I am happy to discuss it.  I am fortunate in that there are very few things which are triggering for me, and I am ' +
+    'perfectly willing to RP mature themes and explore darker or potentially triggering content.  However, I will also do my utmost to respect any triggers that you may ' +
+    'have, and out of respect for others, I will not explore such themes over a public medium where someone might stumble into it unawares.  There are plenty of methods ' +
+    'in-game of RPing without being in the public eye.  For darker/more mature themes, please communicate with me so that we can move the RP to one of those.</p>' +
+    '/div>' +
+    '<div class="journalbox">' +
+    'Thank you for visiting!' +
     '</div>'
